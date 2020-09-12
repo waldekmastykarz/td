@@ -1,0 +1,4 @@
+{
+  "exclude": ["**/*.spec.js"],
+  "reporter": ["lcov", "text", "text-summary"]
+}
